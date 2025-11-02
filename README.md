@@ -229,6 +229,13 @@ The use of AI was a powerful augmentation tool, but the architecture decisions, 
 <img width="1801" height="741" alt="Sweets" src="https://github.com/user-attachments/assets/43a0e1d0-5c13-420e-9cf8-32cd12c5b1ba" />
 <img width="1799" height="496" alt="Get sweet" src="https://github.com/user-attachments/assets/6d40e690-26d3-483a-99d4-c915857e815c" />
 <img width="1793" height="741" alt="Get sweet successful" src="https://github.com/user-attachments/assets/5d5e77b9-855f-4165-a1cf-c681e87600a7" />
+<img width="1795" height="861" alt="Update sweet" src="https://github.com/user-attachments/assets/e46a9855-94d8-49b6-9380-6b2cf2dbe61e" />
+<img width="1799" height="675" alt="Update Response" src="https://github.com/user-attachments/assets/85c2f672-4fce-4aff-939b-257f39118a78" />
+<img width="1800" height="616" alt="Delete sweet" src="https://github.com/user-attachments/assets/c23d6d0a-8786-442f-8b07-31b1e4e7d622" />
+<img width="1799" height="711" alt="Delete sweet (2)" src="https://github.com/user-attachments/assets/af5a1dcb-49a3-406b-8f6f-f93100e0cb42" />
+<img width="1803" height="861" alt="Purchase sweet" src="https://github.com/user-attachments/assets/7e871554-9293-4663-a60e-95af039b7221" />
+<img width="1800" height="766" alt="Restock sweet" src="https://github.com/user-attachments/assets/0f9e3596-b495-4543-8423-4aba493bf7af" />
+
 
 
 
