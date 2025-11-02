@@ -167,12 +167,12 @@ pytest --cov=app --cov-report=html
 ## My AI Usage
 
 ### AI Tools Used
-- **Cursor AI** - Used throughout the development process for code generation, refactoring, and debugging
+- **Cursor AI** - Used in the development process for assisstance in code, refactoring, and debugging
 - **GitHub Copilot** - Assisted with boilerplate code, test generation, and code suggestions
 
 ### How AI Was Used
 
-1. **Project Structure Setup**: Used AI to generate the initial project structure and boilerplate code for FastAPI and React applications.
+1. **Project Structure Setup**: Used AI to generate the initial project structure  for FastAPI and React applications.
 
 2. **Test Generation**: Leveraged AI to generate comprehensive test cases following TDD principles, including:
    - Authentication endpoint tests
@@ -216,7 +216,22 @@ The use of AI was a powerful augmentation tool, but the architecture decisions, 
 
 ## Screenshots
 
-_Screenshots will be added once the application is fully implemented and running._
+<img width="1874" height="888" alt="Sweet-shop1" src="https://github.com/user-attachments/assets/12fd6079-e1f8-46df-80e0-df1d413ce4ac" />
+<img width="1796" height="835" alt="Register1" src="https://github.com/user-attachments/assets/ca8fd51c-7dec-4ec2-8626-a1237a97c121" />
+<img width="1800" height="880" alt="Register 2" src="https://github.com/user-attachments/assets/9e9d5ce1-c827-454c-98fc-32d4d312bad3" />
+<img width="1802" height="787" alt="SS-Login" src="https://github.com/user-attachments/assets/a93b5840-22e6-487f-bfed-bb103788d1ce" />
+<img width="1805" height="767" alt="Login 2" src="https://github.com/user-attachments/assets/c65872b1-52f7-49d1-91de-49831493d52c" />
+<img width="1800" height="852" alt="Login 3" src="https://github.com/user-attachments/assets/1281c287-ede2-4012-bd64-645548f9dc59" />
+<img width="1831" height="881" alt="Create sweet" src="https://github.com/user-attachments/assets/65f20c9e-cc26-459f-a5d2-512664715eab" />
+<img width="1802" height="843" alt="Creation successfull" src="https://github.com/user-attachments/assets/8fbd2235-d4c6-4b92-85a3-235299e892c1" />
+ <img width="1799" height="852" alt="Search Sweet" src="https://github.com/user-attachments/assets/5c1bdc8a-2119-4a3a-813d-2ac8817407c4" />
+<img width="1800" height="840" alt="Sweet search successful" src="https://github.com/user-attachments/assets/44b34428-3c2a-405a-bd64-41fdac6ad084" />
+<img width="1801" height="741" alt="Sweets" src="https://github.com/user-attachments/assets/43a0e1d0-5c13-420e-9cf8-32cd12c5b1ba" />
+<img width="1799" height="496" alt="Get sweet" src="https://github.com/user-attachments/assets/6d40e690-26d3-483a-99d4-c915857e815c" />
+<img width="1793" height="741" alt="Get sweet successful" src="https://github.com/user-attachments/assets/5d5e77b9-855f-4165-a1cf-c681e87600a7" />
+
+
+
 
 ## Future Enhancements
 
@@ -227,9 +242,7 @@ _Screenshots will be added once the application is fully implemented and running
 - Payment integration
 - Admin analytics dashboard
 
-## License
 
-This project is created as part of an assessment.
 
 =======
 # Sweet-Shop
